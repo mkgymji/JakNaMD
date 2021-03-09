@@ -40,4 +40,4 @@ Nepamatujete-li si jak psát české znaky, je dobré přiložit například obr
 > Vyznačený blok textu se píše za symbol \> _(větší než)_. 
 > Speciální znaky se předznačují (_escape_) symbolem \\ (_backslash_)
 
-Existuje mnoho variant Markdownu - nejčastější _dialekt_ je používaný na GitHubu.
+Existuje mnoho variant Markdownu - nejčastější _dialekt_ je používaný na [GitHubu](https://guides.github.com/features/mastering-markdown/). :wink"
