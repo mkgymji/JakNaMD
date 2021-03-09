@@ -6,11 +6,6 @@ V některých částech textu užívám zdroje:
 * starší článek *Tomáše Baryše* [Óda na Markdown](https://lifehacky.cz/oda-na-markdown-co-to-vlastne-je-a-proc-se-bez-nej-neobejdete/)
 * **cheatsheet** (tahák) v [PDF](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-```
-Zdrojový kód pro hlavní nadpis je:
-# Hlavní nadpis
-```
-
 _Markdown_ se používá například na [GitHub](https://www.github.com)u pro psaní titulních popisků projektů, které se označují __Readme.md__. GitHub má pro MD svoji rozšířenou verzi MD.
 
 ## Menší nadpis - další značky
@@ -27,6 +22,18 @@ Jak vytvoříme soubor _Markdownu_ ve _VScode_?
 1. Otevřeme nový soubor a dáme mu příponu _.md_
 2. Začneme psát a používat značky (_tags_) _Markdown_ 
 3. Klikneme na ikonku dělených oken s lupou, abychom viděli rovnou náhled výsledného markdownu.
+
+## Vkládání kódu do textu v Markdownu
+
+Části kódu se do MD souborů dají vložit buď do řádku:
+Tady je vložený příklad definice proměnné v jazyce _TypeScript_ `var example = true` 
+
+Nebo se ocitují v bloku:
+
+```
+Zdrojový kód pro hlavní nadpis je:
+# Hlavní nadpis
+```
 
 
 ### Nejmenší nadpis - jak psát znaky na klávesnici
